@@ -7,12 +7,8 @@ adminstartor use it [editor on GitHub](https://github.com/eioua/eoutrctin-i/edit
 windows iso （office iso）download
 
 
-（1）https://next.itellyou.cn/（You need to log in）（has Windows11）
+（1）[MSDN I Tell You](https://next.itellyou.cn/)（Need to register）（have Windows11）
 
+（2）[MSDN I TELL YOU](https://msdn.itellyou.cn/)（Not have Windows11）
 
-
-（2）https://msdn.itellyou.cn/（no Windows11）
-
-
-
-（3）https://www.xitongku.com/（Both All have）
+（3）[XITONGKU](https://www.xitongku.com/) (Full Systems）
